@@ -1,0 +1,3 @@
+[submodule "tiger"]
+	path = tiger
+	url = https://github.com/elect86/tiger
